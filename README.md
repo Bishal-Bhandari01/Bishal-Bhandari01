@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Bishal%20Bhandari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Security%20Researcher%20%7C%20OSINT%20%26%20Threat%20Intelligence&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="header.svg" alt="Bishal Bhandari" width="860" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=00FF41&center=true&vCenter=true&width=620&lines=Tracking+threats+so+you+don't+have+to.;SOC+Analyst+%40+Monal+Tech+%7C+Kathmandu%2C+Nepal;OSINT+%7C+Threat+Intelligence+%7C+VAPT;Building+tools+that+make+security+less+painful.;If+it+has+a+CVE%2C+I've+probably+read+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=00FF41&center=true&vCenter=true&width=640&lines=Tracking+threats+so+you+don%27t+have+to.;SOC+Analyst+%40+Monal+Tech+%7C+Kathmandu%2C+Nepal;OSINT+%7C+Threat+Intelligence+%7C+VAPT;Building+tools+that+make+security+less+painful.;If+it+has+a+CVE%2C+I%27ve+probably+read+it.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -158,16 +158,19 @@ An ongoing project — a Python/Django-based network vulnerability scanner with 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bishal-Bhandari01&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal-Bhandari01&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bishal-Bhandari01&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal-Bhandari01&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="170" />
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bishal-Bhandari01&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
+<img src="https://streak-stats.demolab.com?user=Bishal-Bhandari01&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41" />
 
-<br/>
+<br/><br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bishal-Bhandari01&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Bishal-Bhandari01&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" /> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bishal-Bhandari01&theme=onedark)](https://github.com/Bishal-Bhandari01/github-profile-trophy)
 
 </div>
 
@@ -177,8 +180,8 @@ An ongoing project — a Python/Django-based network vulnerability scanner with 
 
 *"Security is not a product, but a process."* — Bruce Schneier
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/WraSinMeliodas)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer&animation=fadeIn" />
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/WraSinMeliodas)
 
 </div>
