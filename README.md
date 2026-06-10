@@ -1,28 +1,196 @@
-# 💫 About Me:
-👋 Hi, My name is Bishal Bhandari<br>🔭 I am Currently working as SOC Analyst.
+<div align="center">
 
+```
+██████╗ ██╗███████╗██╗  ██╗ █████╗ ██╗     
+██╔══██╗██║██╔════╝██║  ██║██╔══██╗██║     
+██████╔╝██║███████╗███████║███████║██║     
+██╔══██╗██║╚════██║██╔══██║██╔══██║██║     
+██████╔╝██║███████║██║  ██║██║  ██║███████╗
+╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Y8GfEcb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bishalbhandari-infosec) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18072647) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:admin@bishalbhandari1.com.np) 
+### `Security Researcher · OSINT & Threat Intelligence · Kathmandu, Nepal`
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=plastic&logo=apple&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-[![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishal-Bandari01&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=Bishal-Bhandari01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bishal-Bhandari01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal-Bhandari01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SOC+Analyst+%7C+Threat+Intelligence;OSINT+%7C+Vulnerability+Assessment;MITRE+ATT%26CK+%7C+SIEM+%7C+VAPT;Building+secure+systems+by+design.)](https://git.io/typing-svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bishal-Bhandari01&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishalbhandari-infosec)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bishalbhandari390@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18072647)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Y8GfEcb)
+[![Profile Views](https://komarev.com/ghpvc/?username=Bishal-Bhandari01&style=flat-square&color=00ff41&label=PROFILE+VIEWS)](https://github.com/Bishal-Bhandari01)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bishal-Bhandari01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bishal-Bhandari01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/WraSinMeliodas) 
+## `> whoami`
+
+```yaml
+name:        Bishal Bhandari
+role:        Security Researcher / SOC Analyst
+location:    Kathmandu, Nepal
+experience:  2+ years @ Monal Tech PVT. LTD.
+focus:
+  - Threat Intelligence & Actor Profiling
+  - OSINT & Person-of-Interest Investigations
+  - SIEM Operations (LogPoint, Splunk)
+  - Vulnerability Assessment & Penetration Testing
+  - Incident Response & Digital Forensics
+  - Security Automation (Python, n8n)
+```
+
+---
+
+## `> threat_profile --domains`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔍 Intelligence & Analysis
+- Open-Source Intelligence (OSINT)
+- Threat Attribution & Actor Profiling
+- Social Media Reconnaissance
+- Blockchain Transaction Analysis (Chainalysis)
+- Deep & Dark Web Monitoring
+- Intelligence Reporting (BLUF Model)
+
+</td>
+<td valign="top" width="50%">
+
+### 🛡️ Security Operations
+- SIEM Monitoring & Alert Triage
+- Vulnerability Assessment (Nmap, Burp Suite)
+- MITRE ATT&CK Framework
+- Network & Digital Forensics
+- Incident Documentation & Response
+- PCI-DSS Compliance Fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> ls ./projects`
+
+<details>
+<summary><b>🔬 MakeMyScan — Network Vulnerability Scanner</b> <code>[Python · Django · REST]</code></summary>
+
+<br>
+
+> Automated network vulnerability scanner built on Python and Django with a security-first architecture.
+
+- Automated scanning utilities with CVE lookup integration
+- REST APIs for scan orchestration and result management
+- OWASP-aligned web application scanner prototype
+- Designed for extensibility across enterprise assessment workflows
+
+</details>
+
+<details>
+<summary><b>🧠 Fragment LLM — Production-Grade Language Model</b> <code>[Python · PyTorch · OWASP ASVS 4.0]</code></summary>
+
+<br>
+
+> 38M parameter GPT-style language model built with security compliance baked in from day one.
+
+- Enforced **OWASP ASVS 4.0**, **CWE Top 25**, and **CIS controls** throughout the codebase
+- Replaced unsafe `pickle` serialization with JSON-based checkpoints (mitigates RCE risk)
+- FP16 training + gradient accumulation → **50% memory reduction** without sacrificing efficiency
+- Optimized for deployment on resource-constrained hardware while maintaining security posture
+
+</details>
+
+---
+
+## `> cat ./certifications`
+
+```
+[✓] PCI Compliance                     — Qualys           (2024)
+[✓] OPSWAT File Security Associate     — OFSA             (2024)
+[✓] Ethical Hacking Essentials         —                  (2024)
+```
+
+---
+
+## `> tech_stack --list`
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Security Tooling**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**Frameworks & Infrastructure**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Automation & Integrations**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishal-Bhandari01&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bishal-Bhandari01&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal-Bhandari01&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+
+</div>
+
+---
+
+## `> trophies --display`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Bishal-Bhandari01&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## `> top_contributions`
+
+<div align="center">
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Bishal-Bhandari01&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ ALWAYS LEARNING. ALWAYS BREAKING. ALWAYS BUILDING BETTER. ]
+```
+
+*"Security is not a product, but a process."* — Bruce Schneier
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/WraSinMeliodas)
+
+</div>
