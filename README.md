@@ -75,6 +75,31 @@ focus:
 ## `> ls ./projects`
 
 <details>
+<summary><b>🖥️ SysCommand — Self-Hosted Linux Server Management Panel</b> <code>[Python · Flask · Docker · PostgreSQL]</code></summary>
+
+<br>
+
+> Production-grade server management panel with RBAC, real-time monitoring, Docker orchestration, and integrated vulnerability scanning — built security-first.
+
+- **Multi-User RBAC** with granular permission scopes (`docker:start`, `image:scan`, `audit:read`) and drag-and-drop role editor
+- **TOTP-based MFA** with one-time backup codes and optional enforcement at login
+- **Docker Container Management** — start/stop/restart/remove, real-time CPU/RAM per container, SSE log streaming, image pull with live progress, and automated tag-switch lifecycle
+- **Vulnerability Scanning** via Grype — on-demand CVE dashboard for local Docker images with severity badges and JSON export
+- **Audit Log** with CSV/PDF export; structured JSON security event logging to database
+- **Production hardened**: CSP + HSTS + X-Frame-Options (Flask-Talisman), bcrypt cost-12, rate-limited login (5/min), session fixation prevention, CSRF protection
+- **Docker socket** access via `docker-socket-proxy` (CIS Docker Benchmark compliant) — never mounted directly into the app container
+- Full test pyramid: unit (>85% coverage), integration (Testcontainers), E2E (Playwright), property (Hypothesis), contract (Schemathesis), load (Locust)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bishal-Bhandari01/SysCommand)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</details>
+
+<details>
 <summary><b>🔬 MakeMyScan — Network Vulnerability Scanner</b> <code>[Python · Django · REST]</code></summary>
 
 <br>
@@ -139,6 +164,8 @@ focus:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Automation & Integrations**
