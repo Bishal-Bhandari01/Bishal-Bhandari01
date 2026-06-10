@@ -1,0 +1,94 @@
+<svg width="860" height="120" viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&amp;display=swap');
+
+      .bg { fill: #0d1117; }
+
+      /* scan line sweep */
+      .scan {
+        fill: none;
+        stroke: #00ff41;
+        stroke-width: 1;
+        opacity: 0;
+        animation: scanline 3s ease-in-out infinite;
+      }
+      @keyframes scanline {
+        0%   { opacity: 0; transform: translateY(0px); }
+        10%  { opacity: 0.18; }
+        90%  { opacity: 0.18; }
+        100% { opacity: 0; transform: translateY(110px); }
+      }
+
+      /* name fade + slide in */
+      .name {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 48px;
+        font-weight: 700;
+        fill: #ffffff;
+        opacity: 0;
+        animation: fadeSlideIn 1s ease-out 0.3s forwards;
+      }
+      @keyframes fadeSlideIn {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+
+      /* subtitle */
+      .sub {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 14px;
+        fill: #00ff41;
+        opacity: 0;
+        animation: fadeSlideIn 1s ease-out 0.8s forwards;
+      }
+
+      /* green underline draw */
+      .underline {
+        stroke: #00ff41;
+        stroke-width: 2;
+        fill: none;
+        stroke-dasharray: 320;
+        stroke-dashoffset: 320;
+        animation: drawLine 1s ease-out 1s forwards;
+      }
+      @keyframes drawLine {
+        to { stroke-dashoffset: 0; }
+      }
+
+      /* corner brackets blink */
+      .bracket {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 18px;
+        fill: #00ff41;
+        opacity: 0;
+        animation: blink 1.5s step-end 1.2s infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 0; }
+        50%       { opacity: 0.6; }
+      }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" width="860" height="120" rx="8" />
+
+  <!-- scan line -->
+  <line class="scan" x1="0" y1="10" x2="860" y2="10" />
+
+  <!-- corner brackets -->
+  <text class="bracket" x="18" y="32">&#91;</text>
+  <text class="bracket" x="832" y="32">&#93;</text>
+  <text class="bracket" x="18" y="110">&#91;</text>
+  <text class="bracket" x="832" y="110">&#93;</text>
+
+  <!-- name -->
+  <text class="name" x="430" y="62" text-anchor="middle">Bishal Bhandari</text>
+
+  <!-- underline -->
+  <line class="underline" x1="270" y1="72" x2="590" y2="72" />
+
+  <!-- subtitle -->
+  <text class="sub" x="430" y="98" text-anchor="middle">Security Researcher · OSINT &amp; Threat Intelligence · Nepal</text>
+</svg>
